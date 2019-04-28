@@ -1,0 +1,15 @@
+{
+  "name": "blog-koa",
+  "version": "1.0.0",
+  "description": "this is a koa blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "cgf",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0"
+  }
+}
